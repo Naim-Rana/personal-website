@@ -145,6 +145,19 @@ a:hover {
     padding-top: 40px;
 }
 
+.comment-box {
+    width: 80%;
+    margin: 0 auto;
+    color: red;
+}
+
+.comment-box input {
+    background-color: black;
+    color: red;
+    margin: 4px 0;
+    padding: 6px 15px;
+}
+
 .mission-2022 {
     background-image: linear-gradient(rgb(4, 4, 22), black);
     height: 120px;
