@@ -64,3 +64,42 @@ a:hover {
     border-radius: 8px;
     font-size: 25px;
 }
+
+.flex-box {
+    display: flex;
+}
+
+.my-mission-title {
+    text-align: center;
+    font-size: 35px;
+}
+
+.my-mission {
+    margin: 80px 0;
+}
+
+.my-mission-box {
+
+    border-radius: 7px;
+    box-shadow: 10px 6px 12px gray;
+    margin: 20px 10px;
+    width: 50%;
+    padding: 0 10px;
+}
+
+.my-mission-box img {
+    width: 50%;
+    height: 200px;
+}
+
+.mission-color1 {
+    background-color: bisque;
+}
+
+.mission-color2 {
+    background-color: gainsboro;
+}
+
+.mission-color3 {
+    background-color: pink;
+}
