@@ -103,3 +103,44 @@ a:hover {
 .mission-color3 {
     background-color: pink;
 }
+
+.develop-content {
+    display: flex;
+    width: 100%;
+    margin-top: 40px;
+    margin-bottom: 40px;
+
+}
+
+.content-img {
+    width: 45%;
+    margin-right: 5%;
+
+}
+
+.content-img img {
+    width: 100%;
+    height: 350px;
+
+}
+
+.content-img2 {
+    width: 45%;
+    margin-left: 10%;
+
+}
+
+.content-img2 img {
+    width: 90%;
+    height: 350px;
+    margin-left: 10%;
+}
+
+.content-text {
+
+    height: 400px;
+    width: 50%;
+    margin-left: 2px;
+    padding-left: 10px;
+    padding-top: 40px;
+}
