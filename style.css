@@ -144,3 +144,16 @@ a:hover {
     padding-left: 10px;
     padding-top: 40px;
 }
+
+.mission-2022 {
+    background-image: linear-gradient(rgb(4, 4, 22), black);
+    height: 120px;
+    margin-top: 20px;
+    color: white;
+    text-align: center;
+}
+
+.footer-font {
+    padding-top: 20px;
+    font-family: 'Roboto Slab', serif;
+}
